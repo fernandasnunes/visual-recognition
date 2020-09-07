@@ -1,0 +1,25 @@
+{
+  "name": "visual-recognition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandasnunes/visual-recognition.git"
+  },
+  "author": "Fernanda Nunes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandasnunes/visual-recognition/issues"
+  },
+  "homepage": "https://github.com/fernandasnunes/visual-recognition#readme",
+  "dependencies": {
+    "ibm-cloud-sdk-core": "^2.4.5",
+    "ibm-watson": "^5.7.0",
+    "multer": "^1.4.2",
+    "tough-cookie": "^4.0.0"
+  }
+}
